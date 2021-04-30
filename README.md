@@ -2,7 +2,7 @@
 Repository for InOut7.0 -->
 
 <h1 align="center">
-  Finance Tracker
+  Finance Tracker, <a href="https://github.com/MyAnalystApp/AnalystApp-Native">Modified App</a>
 </h1>
 
 ## What is Finance Tracker?
