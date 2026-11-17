@@ -1,0 +1,11 @@
+node_modules
+CloudVision.js
+uri.js
+./screens/HttpLink.js
+env
+model
+.vscode
+__pycache__
+.ipynb_checkpoints
+.expo/
+.env

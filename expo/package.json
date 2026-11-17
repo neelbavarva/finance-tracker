@@ -1,0 +1,52 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.1.0",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-picker/picker": "^1.9.4",
+    "@react-navigation/drawer": "^5.11.4",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.12.8",
+    "@tensorflow-models/knn-classifier": "^1.2.2",
+    "@tensorflow/tfjs": "^2.7.0",
+    "expo": "~39.0.2",
+    "expo-chart-kit": "^1.2.4",
+    "expo-font": "~8.3.0",
+    "expo-image-picker": "^9.1.1",
+    "expo-status-bar": "~1.0.2",
+    "expo-victory-native": "^0.15.4",
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "nginx": "0.0.0",
+    "nodemon": "^2.0.6",
+    "puppeteer": "^5.5.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
+    "react-native-camera": "^3.40.0",
+    "react-native-chart-kit": "^6.8.1",
+    "react-native-fs": "^2.16.6",
+    "react-native-gesture-handler": "^1.7.0",
+    "react-native-paper": "^4.4.1",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-safe-area-context": "^3.1.4",
+    "react-native-screens": "^2.10.1",
+    "react-native-svg": "^12.1.0",
+    "react-native-table-component": "^1.2.1",
+    "react-native-web": "~0.13.12",
+    "react-navigation-stack": "^2.10.2",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22",
+    "victory-native": "^35.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
